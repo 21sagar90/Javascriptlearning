@@ -1,18 +1,18 @@
-var myfullname;//variable declaration
-myfullname="Sachin Tendulkar";//variable initialization
-console.log(myfullname);
+var myFullName;//variable declaration
+myFullName="Sachin Tendulkar";//variable initialization
+console.log(myFullName);
 
-myfullname="Sachin Ramesh Tendulkar"//variable update
-console.log(myfullname);
+myFullName="Sachin Ramesh Tendulkar"//variable update
+console.log(myFullName);
 
-var mylove;
-mylove="I Love Only JavaScript";
-console.log(mylove);
-var fristname="Mohit";
-var lastname= "Sharma";
+var myLove;
+myLove="I Love Only JavaScript";
+console.log(myLove);
+var fristName="Mohit";
+var lastName= "Sharma";
 var age= " 29 ";
 var address="Shivshakti Nagar Nashik";
-var pincode="422103";
+var pinCode="422103";
 var gender="Male";
-var ismarried= "No";
-console.log(fristname,lastname,age,address,pincode,gender,ismarried);
+var isMarried= "No";
+console.log(fristName,lastName,age,address,pinCode,gender,isMarried);
